@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+	Please leave a review if you like this course!
     <name>
 
 # TECHNOLOGY COLOPHON
